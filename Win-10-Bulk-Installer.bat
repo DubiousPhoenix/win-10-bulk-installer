@@ -41,18 +41,20 @@ choco install keypirinha
 choco install krita
 choco install mpv.portable
 choco install qbittorrent
+choco install obs-studio.portable
+choco install obsidian
 choco install radmin-vpn
 choco install rainmeter
 choco install resilio-sync-home
 choco install sharex
-choco install nuclear
+choco install spotify
+choco install spicetify-cli
 choco install steam-client
-choco install streamlabs-obs
+choco install translucenttb
 choco install vivaldi.portable
 choco install vortex
 choco install vscode
 choco install vscode-prettier
-choco install notion
 @rem ----[ Program List ]----
 pause
 
